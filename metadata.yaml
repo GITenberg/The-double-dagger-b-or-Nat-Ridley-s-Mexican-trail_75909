@@ -1,0 +1,33 @@
+_repo: The-double-dagger-b-or-Nat-Ridley-s-Mexican-trail_75909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ridley, Nat
+    gutenberg_agent_id: '58211'
+    url: http://www.gutenberg.org/2009/agents/58211
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75909'
+  lccn: '27001758'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433092394620&view=1up&seq=7
+pgterms:marc905: 20221124154656ridleyjr
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aGarden City :$bGarden City Publishing, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Mexico -- Fiction'
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- GITenberg
+title: 'The double dagger : $b or, Nat Ridley''s Mexican trail'
+url: http://www.gutenberg.org/ebooks/75909
