@@ -1,11 +1,16 @@
 _repo: The-double-dagger-b-or-Nat-Ridley-s-Mexican-trail_75909
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75909-h/images/cover.jpg
 creator:
   author:
     agent_name: Ridley, Nat
     gutenberg_agent_id: '58211'
     url: http://www.gutenberg.org/2009/agents/58211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75909#The-double-dagger-b-or-Nat-Ridley-s-Mexican-trail
 gutenberg_issued: '2025-04-19'
 gutenberg_type: Text
 identifiers:
